@@ -8,9 +8,11 @@ Pada pertemuan ke-13 ini, kami mempelajari tentang Google App Script. Google App
 
 Untuk tugas Google App Script ini, saya mengintegrasi Google Sheets dengan tugas saya sebelumnya yaitu form untuk mengirim pesan. Jika nanti kita mengisi form dan mengirimnya, maka data di Sheets akan terupdate secara otomatis.
 
-## Live Google Sheets
+## Link Live Google Sheets & Google App Script
 
-Link : <a href="https://docs.google.com/spreadsheets/d/1NWYSyNA1cn-TkGFW3N-IUkWR3R3m00A7k5Cff-S0jg8/edit?usp=sharing"> Live Sheets</a>
+Google Sheets : <a href="https://docs.google.com/spreadsheets/d/1NWYSyNA1cn-TkGFW3N-IUkWR3R3m00A7k5Cff-S0jg8/edit?usp=sharing"> Live Sheets</a>
+
+Google App Script : <a href="https://script.google.com/macros/s/AKfycby8uBC4dO_TXH8mkazf5iAXIWKS1322Z1zEiJcWHLPqEJOw2ckfzA2-xB5DmOgMr-3q2w/exec">Script</a>
 
 ## Tampilan Form
 
